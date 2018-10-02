@@ -22,4 +22,5 @@ def take_a_number(line = [], person)
   end
 end
 
-def now_serving
+def now_serving(line)
+end
