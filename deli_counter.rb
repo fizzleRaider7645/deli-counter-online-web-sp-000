@@ -24,4 +24,5 @@ end
 
 def now_serving(line)
   puts "There is nobody waiting to be served!" if line.empty?
+  
 end
