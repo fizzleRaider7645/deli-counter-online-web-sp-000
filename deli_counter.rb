@@ -19,6 +19,5 @@ def take_a_number(line = [], person)
   else
     line << person
     puts "Welcome, #{person}. You are number #{line.length} in line."
-    end
   end
 end
